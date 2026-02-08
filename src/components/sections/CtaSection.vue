@@ -6,7 +6,7 @@
       <p class="cta-desc">Brindamos atención médica y estética en oftalmología, oculoplástica y otorrinolaringología con enfoque personalizado. Llámanos o envíanos un mensaje para agendar tu cita o resolver cualquier duda.</p>
       <!-- If on an individual page, anchor to contact might need to change to RouterLink or explicit URL. 
            For now, href="#contacto" works if ContactSection is on the same page, or we might need to route to /contacto -->
-      <a href="/contacto" class="btn btn-primary cta-btn">
+      <a href="https://wa.me/524435690016" target="_blank" class="btn btn-primary cta-btn">
         <Calendar :size="18" />
         Agendar Cita
       </a>

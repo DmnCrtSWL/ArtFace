@@ -14,7 +14,7 @@
             <p class="subtitle">Desde cirugías de párpados, rinoplastía ultrasónica y tratamientos reconstructivos, hasta óptica con garantía y auxiliares auditivos de última generación. Somos dos especialistas trabajando en conjunto para brindarte soluciones integrales que cuidan tu bienestar y tu imagen.</p>
             <div class="hero-buttons">
               <button class="btn btn-secondary" @click="explore">Leer más</button>
-              <a href="/contacto" class="btn btn-primary">
+              <a href="https://wa.me/524435690016" target="_blank" class="btn btn-primary">
                 <Calendar :size="18" />
                 Agendar Cita
               </a>

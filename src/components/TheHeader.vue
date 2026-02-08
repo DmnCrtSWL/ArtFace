@@ -51,7 +51,7 @@
         </nav>
         
         <!-- CTA Button -->
-        <a href="#contacto" class="cta-button desktop-only">
+        <a href="https://wa.me/524435690016" target="_blank" class="cta-button desktop-only">
           <Calendar :size="18" class="brand-icon" />
           <span>Agendar Cita</span>
         </a>
@@ -72,7 +72,7 @@
         <a href="/servicios" class="nav-link" @click="toggleMenu">Servicios</a>
         <a href="/nosotros" class="nav-link" @click="toggleMenu">Nosotros</a>
         <a href="/contacto" class="nav-link" @click="toggleMenu">Contacto</a>
-        <a href="#contacto" class="cta-button mobile-cta" @click="toggleMenu">
+        <a href="https://wa.me/524435690016" target="_blank" class="cta-button mobile-cta" @click="toggleMenu">
           <Calendar :size="18" class="brand-icon" />
           <span>Agendar Cita</span>
         </a>
