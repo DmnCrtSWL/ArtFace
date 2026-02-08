@@ -140,7 +140,11 @@ import { Check } from 'lucide-vue-next';
   }
   
   .about-section {
-    padding: 6rem 2rem;
+    padding: 4rem 24px; /* Increased to 24px for better visibility */
+  }
+
+  .about-col-right {
+    padding: 96px 32px 64px 32px;
   }
 }
 </style>
